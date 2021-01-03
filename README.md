@@ -1,23 +1,23 @@
 ### Olá, Tudo bem ?
 
-Meu nome é Priscilla Nascimento Santos,  genuinamente Manaura ;). 
-
-Sou Data Analyst na Bemol Digital. 
+Meu nome é Priscilla Nascimento Santos,  genuinamente Manauara 😁. Sou Data Analyst na Bemol Digital. 💙
 
 Apaixonada por Data Science 📊
+
+**Minha Formação:**
 
 - Mestrado em Informática - UFAM/AM
 - Agente de Inovação e Difusão Tecnológica - Fucapi/AM
 - Licenciatura em Informática - UEA/UFAM 
-
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/source.gif" width="500" height="320" />
+   
+   <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/source.gif" width="500" height="320" />
+  
   
 **Sobre Mim:**
 
 - 💡 Tenho interesse em: Data Science, Machine Learning, IA  e Tecnologias Educacionais 
 - 💻 Atualmente estou trabalhando com  Natural Language Processing
-- 📝 [Meu blog](https://medium.com/conectadados)
+- 📝 [Conecta Dados] (https://medium.com/conectadados)
 - 💬  Fale comigo sobre qualquer coisa 😆
 - 📝[Resume](https://prisantos.github.io/priscillasantos.github.io/)
 - 🎓Estudando Machine Learning e Inteligência Artificial
