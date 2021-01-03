@@ -17,7 +17,7 @@ Apaixonada por Data Science 📊
 
 - 💡 Tenho interesse em: Data Science, Machine Learning, IA  e Tecnologias Educacionais 
 - 💻 Atualmente estou trabalhando com  Natural Language Processing
-- 📝 [Conecta Dados] (https://medium.com/conectadados)
+- 📝 Meu Blog: [Conecta Dados](https://medium.com/conectadados)
 - 💬  Fale comigo sobre qualquer coisa 😆
 - 📝[Resume](https://prisantos.github.io/priscillasantos.github.io/)
 - 🎓Estudando Machine Learning e Inteligência Artificial
