@@ -32,6 +32,7 @@ Apaixonada por Data Science 📊
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 **Posts Recentes no Medium!**
+
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@priscilla.batista18/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@priscilla.batista18/0" alt="Recent Article on medium"></img></a>   
 
 
