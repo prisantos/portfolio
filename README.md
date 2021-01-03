@@ -23,12 +23,13 @@ Apaixonada por Data Science 📊
 - 🎓Estudando Machine Learning e Inteligência Artificial
 
 
-**Linguagens e Ferramentas:**  
+**Tecnologias**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ### Posts Recentes no Medium!
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@priscilla.batista18/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@priscilla.batista18/0" alt="Recent Article on medium"></img></a>   
@@ -38,8 +39,12 @@ Apaixonada por Data Science 📊
 <a target="_blank" href="https://www.linkedin.com/in/priscilla-nascimento-santos-418aaa48/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:priscilla.batista18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://medium.com/@priscilla.batista18"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
+</p> 
 
-<br>
-</p>    
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=prisantos&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prisantos&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=prisantos.prisantos)
 
 <br />
