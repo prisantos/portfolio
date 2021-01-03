@@ -3,12 +3,6 @@
 Meu nome é Priscilla Nascimento Santos,  genuinamente Manauara 😁. Sou Data Analyst na Bemol Digital. 💙
 
 Apaixonada por Data Science 📊
-
-**Minha Formação:**
-
-- Mestrado em Informática - UFAM/AM
-- Agente de Inovação e Difusão Tecnológica - Fucapi/AM
-- Licenciatura em Informática - UEA/UFAM 
    
    <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/source.gif" width="500" height="320" />
   
@@ -30,6 +24,7 @@ Apaixonada por Data Science 📊
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 
 **Posts Recentes no Medium!**
 
